@@ -4,11 +4,11 @@
 
 ## Description
 
-Please refer [`docs/](docs) folder.
+Please refer [`docs/`](docs) folder.
 
 Source code is under [`src/`](src) folder and example codes are under [`examples/`](examples) folder
 
-![example-setup](examples/example-setup.jpg)
+![example-setup](images/example-setup.jpg)
 
 **_Notes:_**
 
